@@ -34,4 +34,3 @@ My research interests include **mathematical optimization, game theory, and rela
 I have been associated with the **Mathematics Training and Talent Search (MTTS) Programme** since participating in it as a student in 2002. Since 2013, I have contributed as a resident faculty member in various MTTS programmes conducted across India.
 
 I enjoy combining mathematics, open-source technology, and education to develop useful tools and resources for students, teachers, and researchers.
-
