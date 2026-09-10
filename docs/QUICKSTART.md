@@ -71,7 +71,7 @@ Once your site is running, explore these customization options:
 
 ### Add Your Content
 
-- **Profile picture:** Replace `assets/img/prof_pic.jpg` with your photo
+- **Profile picture:** Replace `assets/img/prof_pic.png` with your photo
 - **About page:** Edit `_pages/about.md` to write your bio
 - **Publications:** Add entries to `_bibliography/papers.bib`
 - **Blog posts:** Create files in `_posts/` with format `YYYY-MM-DD-title.md`
@@ -106,7 +106,7 @@ See [CUSTOMIZE.md § GitHub Copilot Customization Agent](CUSTOMIZE.md#github-cop
 
 - Fill in `title`, `first_name`, `last_name`, `url`, and `baseurl` in `_config.yml`
 - Add your social media links in `_data/socials.yml`
-- Upload your profile picture to `assets/img/prof_pic.jpg`
+- Upload your profile picture to `assets/img/prof_pic.png`
 - Write a short bio in `_pages/about.md`
 
 Happy customizing! 🎉
