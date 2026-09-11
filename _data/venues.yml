@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ORCID":
+  url: https://orcid.org/0000-0002-7015-2005
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"zbMATH":
+  url: https://zbmath.org/authors/chandrashekaran.a
 
 "Vision":
   color: "#009f36"
