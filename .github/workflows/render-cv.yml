@@ -43,7 +43,7 @@ jobs:
             exit 1
           fi
           rendercv render $cv_file --settings $settings
-          rm assets/rendercv/rendercv_output/*.typ
+          rm -f assets/rendercv/rendercv_output/*.typ || true
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v5
         with:
