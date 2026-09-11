@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.io//chandru1782.github.io/sitemap.xml
+Sitemap: https://github.io//sitemap.xml
