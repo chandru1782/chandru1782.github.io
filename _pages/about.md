@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://cutn.ac.in/staff-members/dr-a-chandrashekaran/'>Associate Professor</a>. Department of Mathematics, CUTN, Thiruvarur
 
 profile:
   align: right
